@@ -41,5 +41,5 @@ jobs:
       uses: docker/build-push-action@v4
       with:
         push: true
-        tags: /app:latest
+        tags: saadala/demo-app:latest
          
